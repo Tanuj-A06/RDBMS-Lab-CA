@@ -1,0 +1,201 @@
+id,restaurent_id,customer_id,description
+1,121,117,Could use more spice but overall a good meal.
+2,121,147,Food quality has gone down compared to last time.
+3,108,91,Mediocre at best. Have had much better elsewhere.
+4,75,43,Excellent quality and fresh ingredients. Highly recommended!
+5,178,153,Top notch quality! Every dish was a delight.
+6,187,145,Service was excellent but food was too spicy for me.
+7,16,162,Portions were small for the price charged.
+8,149,44,A hidden gem! Discovered through a friend recommendation.
+9,14,169,Mediocre at best. Have had much better elsewhere.
+10,189,160,The food was delicious but delivery was a bit slow.
+11,74,125,Good food but slightly overpriced for the quantity.
+12,33,130,Loved the taste! Authentic flavors and generous portions.
+13,72,65,Great variety on the menu. Enjoyed every bite.
+14,158,72,Fresh and tasty. My go-to restaurant for ordering in.
+15,66,4,Food arrived cold. Disappointing experience overall.
+16,155,45,The combo meals are a great deal. Try them.
+17,190,39,Consistent quality every time I order. Trustworthy place.
+18,95,45,Service was excellent but food was too spicy for me.
+19,180,61,Prompt delivery and courteous delivery partner.
+20,47,136,Excellent quality and fresh ingredients. Highly recommended!
+21,88,22,Decent food. The packaging could be better though.
+22,153,40,Prompt delivery and courteous delivery partner.
+23,193,106,Great value for money. Will order again soon.
+24,61,170,Consistent quality every time I order. Trustworthy place.
+25,186,164,Absolutely fantastic! The chef really knows their craft.
+26,54,148,Perfect for family dinners. Something for everyone.
+27,14,165,Service was excellent but food was too spicy for me.
+28,194,30,Average experience. Food was okay but nothing special.
+29,43,119,The paneer dishes are their specialty. Do try them.
+30,122,78,Portions were small for the price charged.
+31,192,193,Clean and hygienic food preparation. You can taste it.
+32,60,98,Great value for money. Will order again soon.
+33,122,68,Decent food. The packaging could be better though.
+34,136,112,Amazing food and great service! Will definitely come back.
+35,74,115,Great value for money. Will order again soon.
+36,174,81,The best Chinese food in this area hands down.
+37,175,11,Outstanding! One of the best meals I have had.
+38,137,164,Perfect for family dinners. Something for everyone.
+39,111,157,Fresh and tasty. My go-to restaurant for ordering in.
+40,86,70,Fresh and tasty. My go-to restaurant for ordering in.
+41,26,66,The combo meals are a great deal. Try them.
+42,101,119,Good portion size and reasonable prices. Happy customer.
+43,188,173,The combo meals are a great deal. Try them.
+44,198,50,The best Chinese food in this area hands down.
+45,87,174,Not up to the mark. Expected better quality.
+46,81,141,Amazing food and great service! Will definitely come back.
+47,173,3,Loved the taste! Authentic flavors and generous portions.
+48,4,106,Outstanding! One of the best meals I have had.
+49,135,27,Consistent quality every time I order. Trustworthy place.
+50,90,57,Mediocre at best. Have had much better elsewhere.
+51,65,50,Excellent quality and fresh ingredients. Highly recommended!
+52,7,159,Good food but slightly overpriced for the quantity.
+53,15,153,Quick delivery and hot food. Very satisfied.
+54,154,164,Food arrived cold. Disappointing experience overall.
+55,182,31,Good food but slightly overpriced for the quantity.
+56,155,34,Great value for money. Will order again soon.
+57,169,196,A hidden gem! Discovered through a friend recommendation.
+58,48,29,Not up to the mark. Expected better quality.
+59,65,76,The gravy dishes are rich and flavorful. Recommended!
+60,170,20,The gravy dishes are rich and flavorful. Recommended!
+61,71,197,Ordered for a party. Everyone loved the food!
+62,178,171,The desserts are to die for. Absolutely loved them.
+63,66,42,Loved the taste! Authentic flavors and generous portions.
+64,71,199,Average experience. Food was okay but nothing special.
+65,98,100,Food quality has gone down compared to last time.
+66,16,67,Service was excellent but food was too spicy for me.
+67,46,113,Loved the taste! Authentic flavors and generous portions.
+68,126,52,Perfect weekend dinner option. Loved everything we ordered.
+69,101,46,Prompt delivery and courteous delivery partner.
+70,28,37,Clean and hygienic food preparation. You can taste it.
+71,197,111,Quick delivery and hot food. Very satisfied.
+72,158,165,Outstanding! One of the best meals I have had.
+73,114,184,Service was excellent but food was too spicy for me.
+74,27,9,Loved the taste! Authentic flavors and generous portions.
+75,19,147,Service was excellent but food was too spicy for me.
+76,199,115,The food was delicious but delivery was a bit slow.
+77,128,39,Amazing food and great service! Will definitely come back.
+78,10,171,Great value for money. Will order again soon.
+79,69,39,Food quality has gone down compared to last time.
+80,101,148,Amazing food and great service! Will definitely come back.
+81,132,182,Prompt delivery and courteous delivery partner.
+82,123,112,The paneer dishes are their specialty. Do try them.
+83,187,200,Loved the taste! Authentic flavors and generous portions.
+84,139,58,Amazing food and great service! Will definitely come back.
+85,99,177,Portions were small for the price charged.
+86,32,146,Clean and hygienic food preparation. You can taste it.
+87,92,86,Top notch quality! Every dish was a delight.
+88,103,15,Good food but slightly overpriced for the quantity.
+89,94,137,Food quality has gone down compared to last time.
+90,21,118,Mediocre at best. Have had much better elsewhere.
+91,166,52,Not up to the mark. Expected better quality.
+92,142,11,Great value for money. Will order again soon.
+93,170,49,Top notch quality! Every dish was a delight.
+94,179,100,Outstanding! One of the best meals I have had.
+95,162,177,Perfect for family dinners. Something for everyone.
+96,125,22,Consistent quality every time I order. Trustworthy place.
+97,189,49,Great variety on the menu. Enjoyed every bite.
+98,10,50,The food was delicious but delivery was a bit slow.
+99,185,152,Good portion size and reasonable prices. Happy customer.
+100,126,100,Loved the taste! Authentic flavors and generous portions.
+101,139,165,Top notch quality! Every dish was a delight.
+102,128,137,Consistent quality every time I order. Trustworthy place.
+103,5,10,Food quality has gone down compared to last time.
+104,15,87,Excellent quality and fresh ingredients. Highly recommended!
+105,104,31,Quick delivery and hot food. Very satisfied.
+106,168,171,The best Chinese food in this area hands down.
+107,118,174,Clean and hygienic food preparation. You can taste it.
+108,39,190,The combo meals are a great deal. Try them.
+109,60,19,Excellent quality and fresh ingredients. Highly recommended!
+110,189,37,Prompt delivery and courteous delivery partner.
+111,168,5,Portions were small for the price charged.
+112,159,12,Good portion size and reasonable prices. Happy customer.
+113,180,167,Great variety on the menu. Enjoyed every bite.
+114,4,45,Average experience. Food was okay but nothing special.
+115,79,25,The gravy dishes are rich and flavorful. Recommended!
+116,157,44,The combo meals are a great deal. Try them.
+117,17,28,Food arrived cold. Disappointing experience overall.
+118,128,153,Perfect weekend dinner option. Loved everything we ordered.
+119,57,17,Wonderful flavors and perfect spice levels. Must try!
+120,110,87,The paneer dishes are their specialty. Do try them.
+121,84,31,A hidden gem! Discovered through a friend recommendation.
+122,140,36,The desserts are to die for. Absolutely loved them.
+123,55,196,Excellent quality and fresh ingredients. Highly recommended!
+124,152,45,Food quality has gone down compared to last time.
+125,17,31,Fresh and tasty. My go-to restaurant for ordering in.
+126,37,194,Packaging was neat and food was still warm on arrival.
+127,44,179,Tried the new menu items. Pleasantly surprised!
+128,142,43,Consistent quality every time I order. Trustworthy place.
+129,63,149,Excellent quality and fresh ingredients. Highly recommended!
+130,35,26,Perfect weekend dinner option. Loved everything we ordered.
+131,97,200,Absolutely fantastic! The chef really knows their craft.
+132,5,125,Good food but slightly overpriced for the quantity.
+133,2,2,Not up to the mark. Expected better quality.
+134,23,181,The combo meals are a great deal. Try them.
+135,73,107,Portions were small for the price charged.
+136,178,33,Quick delivery and hot food. Very satisfied.
+137,37,164,Fresh and tasty. My go-to restaurant for ordering in.
+138,134,116,Packaging was neat and food was still warm on arrival.
+139,62,45,Perfect weekend dinner option. Loved everything we ordered.
+140,178,10,Slightly oily food but the taste was good.
+141,47,184,Prompt delivery and courteous delivery partner.
+142,157,23,Top notch quality! Every dish was a delight.
+143,90,108,Amazing food and great service! Will definitely come back.
+144,143,61,Wonderful flavors and perfect spice levels. Must try!
+145,31,136,Outstanding! One of the best meals I have had.
+146,159,93,Clean and hygienic food preparation. You can taste it.
+147,130,57,The gravy dishes are rich and flavorful. Recommended!
+148,198,161,Quick delivery and hot food. Very satisfied.
+149,71,14,Wonderful flavors and perfect spice levels. Must try!
+150,29,39,Portions were small for the price charged.
+151,128,46,Absolutely fantastic! The chef really knows their craft.
+152,172,12,Average experience. Food was okay but nothing special.
+153,166,94,Mediocre at best. Have had much better elsewhere.
+154,54,112,Service was excellent but food was too spicy for me.
+155,86,158,The gravy dishes are rich and flavorful. Recommended!
+156,12,27,Average experience. Food was okay but nothing special.
+157,138,46,Absolutely fantastic! The chef really knows their craft.
+158,8,125,Could use more spice but overall a good meal.
+159,30,19,Good portion size and reasonable prices. Happy customer.
+160,185,114,The combo meals are a great deal. Try them.
+161,149,84,Packaging was neat and food was still warm on arrival.
+162,51,192,The desserts are to die for. Absolutely loved them.
+163,59,200,Food arrived cold. Disappointing experience overall.
+164,84,59,Outstanding! One of the best meals I have had.
+165,61,189,Packaging was neat and food was still warm on arrival.
+166,52,97,The biryani was heavenly! Best in the city.
+167,19,121,The combo meals are a great deal. Try them.
+168,125,14,Ordered for a party. Everyone loved the food!
+169,38,56,Perfect weekend dinner option. Loved everything we ordered.
+170,117,46,Great value for money. Will order again soon.
+171,96,35,The gravy dishes are rich and flavorful. Recommended!
+172,185,50,Perfect for family dinners. Something for everyone.
+173,70,52,Food quality has gone down compared to last time.
+174,33,9,A hidden gem! Discovered through a friend recommendation.
+175,16,72,Great variety on the menu. Enjoyed every bite.
+176,29,120,The gravy dishes are rich and flavorful. Recommended!
+177,108,44,Food quality has gone down compared to last time.
+178,57,76,Slightly oily food but the taste was good.
+179,41,164,Perfect weekend dinner option. Loved everything we ordered.
+180,44,148,Would rate 5 stars if delivery was faster.
+181,59,23,Packaging was neat and food was still warm on arrival.
+182,134,126,Quick delivery and hot food. Very satisfied.
+183,152,122,The gravy dishes are rich and flavorful. Recommended!
+184,72,4,Ordered for a party. Everyone loved the food!
+185,189,64,Good portion size and reasonable prices. Happy customer.
+186,84,112,The combo meals are a great deal. Try them.
+187,57,152,Decent food. The packaging could be better though.
+188,147,2,Packaging was neat and food was still warm on arrival.
+189,12,11,Portions were small for the price charged.
+190,188,197,Could use more spice but overall a good meal.
+191,9,109,The best Chinese food in this area hands down.
+192,101,123,Outstanding! One of the best meals I have had.
+193,116,127,Good portion size and reasonable prices. Happy customer.
+194,22,143,Amazing food and great service! Will definitely come back.
+195,178,188,Packaging was neat and food was still warm on arrival.
+196,56,34,Perfect for family dinners. Something for everyone.
+197,76,62,Good food but slightly overpriced for the quantity.
+198,5,123,Top notch quality! Every dish was a delight.
+199,42,181,The gravy dishes are rich and flavorful. Recommended!
+200,147,192,The combo meals are a great deal. Try them.

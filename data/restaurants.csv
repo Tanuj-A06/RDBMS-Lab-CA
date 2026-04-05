@@ -1,0 +1,201 @@
+id,name,contact,email,address
+1,Diamond Stop,9436297208,diamond.stop34@rediffmail.com,79 SG Highway Indore 490084
+2,Happy Diner,9464975279,happy.diner141@rediffmail.com,188 Anna Salai Chandigarh 781113
+3,Paradise Bowl,7487258103,paradise.bowl27@icloud.com,96 Civil Lines Coimbatore 505785
+4,Garden Express,8124322241,garden.express794@outlook.com,361 SG Highway Pune 741599
+5,Chef's Inn,7859759428,chefs.inn126@yahoo.com,437 Cedar Rd Surat 281043
+6,Happy House,9928863857,happy.house991@outlook.com,342 Nehru Marg Ghaziabad 168093
+7,Garden Terrace,8247096480,garden.terrace913@outlook.com,436 Market St Ghaziabad 844031
+8,Tandoori Point,9185089287,tandoori.point230@gmail.com,103 Broadway Ahmedabad 928766
+9,Crispy Grill,8550038771,crispy.grill568@rediffmail.com,189 Ring Rd Kochi 236074
+10,Rustic House,7282385977,rustic.house317@hotmail.com,368 Mall Rd Coimbatore 530749
+11,Red Diner,7538274418,red.diner996@outlook.com,329 Cedar Rd Surat 588461
+12,Fire Hut,7551192946,fire.hut900@rediffmail.com,328 Sector 17 Kolkata 905077
+13,Urban Tandoor,9159783506,urban.tandoor933@gmail.com,426 Walnut Ave Coimbatore 260448
+14,Flavors of Hub,7695642802,flavors.of.hub331@icloud.com,116 Nehru Marg Coimbatore 397846
+15,Little Plate,7843110305,little.plate651@rediffmail.com,141 Broadway Gurgaon 417534
+16,Rustic Terrace,7401271939,rustic.terrace515@icloud.com,87 Sector 17 Mysore 261684
+17,Curry Garden,9420721027,curry.garden43@gmail.com,42 Oak Lane Gurgaon 908475
+18,Palace Plate,9796581976,palace.plate216@rediffmail.com,214 Block C Gurgaon 131757
+19,Crispy Terrace,8244130290,crispy.terrace658@outlook.com,248 College Ave Faridabad 525818
+20,Flavors of Restaurant,7313416738,flavors.of.restaurant706@gmail.com,81 SG Highway Nagpur 607774
+21,Lucky Table,8461115950,lucky.table622@yahoo.com,161 Washington Blvd Thane 462147
+22,Green Corner,8591458030,green.corner528@rediffmail.com,55 Washington Blvd Ahmedabad 589131
+23,Classic Eatery,8931000173,classic.eatery254@yahoo.com,50 Elm St Lucknow 502810
+24,Rustic Wok,8066312714,rustic.wok986@yahoo.com,417 Washington Blvd Mysore 856157
+25,The Original Place,7684370461,the.original.place511@rediffmail.com,240 Civil Lines Lucknow 621530
+26,Royal House,8688962331,royal.house518@hotmail.com,495 College Ave Pune 711680
+27,Star Cafe,7217069388,star.cafe289@hotmail.com,306 Mall Rd Lucknow 662761
+28,The Golden Palace,8850820685,the.golden.palace138@outlook.com,373 MG Road Navi Mumbai 522842
+29,Diamond Bistro,8720484983,diamond.bistro53@rediffmail.com,288 Hill St Indore 680096
+30,Chef's Diner,8659355558,chefs.diner517@hotmail.com,392 Connaught Place Jaipur 965401
+31,Rustic Express,7552605034,rustic.express999@gmail.com,202 MG Road Chandigarh 684929
+32,Diamond Junction,7854947088,diamond.junction617@rediffmail.com,206 Residency Rd Delhi 147504
+33,Spice Corner,8430398942,spice.corner824@hotmail.com,266 Ring Rd Chennai 735710
+34,Smoky Corner,8408602588,smoky.corner954@rediffmail.com,164 Market St Bhopal 746447
+35,Flavors of Garden,9178901271,flavors.of.garden849@rediffmail.com,273 Civil Lines Ghaziabad 690268
+36,Flavors of Bar & Grill,7071455195,flavors.of.bar.&.grill378@outlook.com,345 Walnut Ave Nagpur 712056
+37,Flavors of Grill,9563707272,flavors.of.grill486@outlook.com,496 Sector 17 Mysore 338596
+38,Taste of Bar & Grill,7732343731,taste.of.bar.&.grill537@icloud.com,370 Block C Navi Mumbai 982027
+39,Silver Junction,9923699745,silver.junction249@gmail.com,294 Walnut Ave Pune 119857
+40,Happy Delight,8798647685,happy.delight156@hotmail.com,354 River Rd Nagpur 626195
+41,Rustic Bar & Grill,7267496095,rustic.bar.&.grill723@yahoo.com,266 River Rd Kochi 440839
+42,Fresh Nest,8618450083,fresh.nest322@yahoo.com,236 Jubilee Hills Chandigarh 672808
+43,Star Plate,9620258967,star.plate496@yahoo.com,491 College Ave Jaipur 685196
+44,Flavors of Bites,8278244804,flavors.of.bites790@outlook.com,361 River Rd Ghaziabad 839233
+45,Crispy Delight,9060740001,crispy.delight358@rediffmail.com,479 Sunset Blvd Lucknow 227794
+46,Palace Terrace,8630774093,palace.terrace918@hotmail.com,420 Nehru Marg Navi Mumbai 943700
+47,Saffron Dhaba,7180674181,saffron.dhaba295@icloud.com,41 Nehru Marg Surat 787836
+48,Himalayan Bar & Grill,7919066362,himalayan.bar.&.grill207@rediffmail.com,139 Connaught Place Ghaziabad 384815
+49,Urban Palace,9644312718,urban.palace759@rediffmail.com,123 College Ave Delhi 802371
+50,Fire Bites,9739951076,fire.bites239@gmail.com,52 Linking Rd Chandigarh 852204
+51,Fresh Palace,9925697292,fresh.palace790@yahoo.com,3 Connaught Place Kolkata 526673
+52,Fresh Bar & Grill,9794042404,fresh.bar.&.grill205@outlook.com,165 Spring St Gurgaon 162036
+53,Little Bites,9298461504,little.bites757@icloud.com,436 Oak Lane Kolkata 538184
+54,Tandoori Bistro,8705078697,tandoori.bistro807@hotmail.com,96 Spring St Delhi 109717
+55,Flavors of Palace,8438994940,flavors.of.palace292@hotmail.com,329 Jubilee Hills Coimbatore 617904
+56,Urban Den,9010133918,urban.den280@yahoo.com,415 Walnut Ave Chandigarh 270387
+57,Lucky Plate,7799718923,lucky.plate15@icloud.com,173 Spring St Mysore 807160
+58,Masala Spot,9624029587,masala.spot877@icloud.com,460 Anna Salai Nagpur 640310
+59,The Original House,8721565695,the.original.house686@gmail.com,95 Broadway Vadodara 439320
+60,Mumbai Kitchen,8120064235,mumbai.kitchen393@yahoo.com,229 Sunset Blvd Chandigarh 416613
+61,Heritage Kitchen,8123362233,heritage.kitchen670@outlook.com,355 College Ave Delhi 800224
+62,Classic Restaurant,8317723211,classic.restaurant164@hotmail.com,352 Residency Rd Ghaziabad 907236
+63,Flavors of Express,9743244243,flavors.of.express939@outlook.com,189 Block C Ahmedabad 329772
+64,Urban Bar & Grill,7657926994,urban.bar.&.grill466@icloud.com,311 MG Road Nagpur 836038
+65,Garden Bar & Grill,9308620882,garden.bar.&.grill822@icloud.com,423 River Rd Navi Mumbai 359486
+66,Fusion House,9257033897,fusion.house458@rediffmail.com,361 MG Road Bangalore 691573
+67,Classic Cafe,9352135602,classic.cafe925@rediffmail.com,104 Rajpath Kochi 257131
+68,Curry Delight,9234849897,curry.delight453@gmail.com,349 River Rd Ghaziabad 711474
+69,Crispy House,9192045446,crispy.house457@gmail.com,233 Broadway Coimbatore 535604
+70,Lucky Cafe,9400015680,lucky.cafe474@icloud.com,414 Lincoln Ave Thane 122827
+71,Green Plate,7012951344,green.plate764@yahoo.com,297 Cedar Rd Delhi 544278
+72,Star Diner,9324279536,star.diner62@gmail.com,479 Mall Rd Delhi 401036
+73,Red Spot,7581662546,red.spot785@icloud.com,374 Linking Rd Indore 501058
+74,Happy Stop,8613385303,happy.stop83@icloud.com,494 Jubilee Hills Chennai 785280
+75,Star Express,7766538381,star.express551@hotmail.com,271 Broadway Thane 333507
+76,The Golden Grill,8281459294,the.golden.grill475@icloud.com,369 Jubilee Hills Nagpur 657772
+77,Silver Bites,8063056115,silver.bites472@outlook.com,80 Sunset Blvd Pune 860242
+78,Classic Bistro,9835527487,classic.bistro430@rediffmail.com,393 Park Ave Ahmedabad 316092
+79,The Great Palace,9550970716,the.great.palace35@hotmail.com,307 Elm St Ahmedabad 876513
+80,Spice Zone,8885330933,spice.zone240@rediffmail.com,112 Elm St Chennai 628373
+81,Chef's Bites,9474375067,chefs.bites327@rediffmail.com,307 Washington Blvd Ahmedabad 416422
+82,Saffron Nest,7949371357,saffron.nest424@outlook.com,141 Elm St Kochi 720407
+83,Tandoori Tandoor,9387360437,tandoori.tandoor508@gmail.com,498 Nehru Marg Gurgaon 803953
+84,Silver Nest,8368954072,silver.nest714@hotmail.com,210 Church St Lucknow 494747
+85,Tandoori Terrace,9033747850,tandoori.terrace247@yahoo.com,154 Church St Surat 160423
+86,Garden Wok,8788887661,garden.wok571@rediffmail.com,69 Brigade Rd Ahmedabad 367382
+87,Bombay Garden,9777580509,bombay.garden81@hotmail.com,434 MG Road Bangalore 661654
+88,Masala Cafe,8153033730,masala.cafe387@icloud.com,310 Phase 5 Delhi 176319
+89,Masala Table,9058982440,masala.table214@outlook.com,156 Main St Pune 299254
+90,Classic Bar & Grill,8041929790,classic.bar.&.grill713@rediffmail.com,361 River Rd Bhopal 350956
+91,Garden Delight,8215730003,garden.delight390@hotmail.com,274 Nehru Marg Lucknow 374267
+92,Diamond Den,9135789708,diamond.den478@gmail.com,412 Mall Rd Navi Mumbai 980521
+93,The Original Table,8592165525,the.original.table321@hotmail.com,24 Rajpath Ahmedabad 877259
+94,Saffron Grill,8120016279,saffron.grill567@rediffmail.com,297 Linking Rd Lucknow 259814
+95,Masala Garden,7987922467,masala.garden389@rediffmail.com,427 College Ave Vadodara 677390
+96,Grand Plate,9098611616,grand.plate990@icloud.com,329 Civil Lines Surat 276405
+97,Star Hub,7601117291,star.hub738@rediffmail.com,251 Lake Rd Kochi 772985
+98,Taste of Nest,7145271935,taste.of.nest860@gmail.com,484 Elm St Navi Mumbai 106693
+99,Red Corner,9708842947,red.corner237@gmail.com,363 Church St Mumbai 329344
+100,Smoky Restaurant,8602884797,smoky.restaurant62@rediffmail.com,327 Block C Vadodara 791309
+101,The Golden Terrace,9369291047,the.golden.terrace422@gmail.com,9 Banjara Hills Thane 388086
+102,Ocean Dhaba,7073626894,ocean.dhaba515@icloud.com,346 FC Road Kolkata 212214
+103,Big Nest,7639509845,big.nest247@yahoo.com,318 Banjara Hills Jaipur 954814
+104,Star Eatery,8704657157,star.eatery81@outlook.com,492 Anna Salai Surat 692447
+105,Mumbai Bites,8288381269,mumbai.bites701@gmail.com,335 Oak Lane Bangalore 524965
+106,Silver Stop,9373834610,silver.stop488@gmail.com,327 Main St Ghaziabad 279708
+107,Little Inn,8863627766,little.inn661@outlook.com,290 Pine St Coimbatore 144618
+108,Delhi Table,9973353078,delhi.table909@rediffmail.com,244 Sunset Blvd Delhi 177959
+109,Paradise Terrace,9420256439,paradise.terrace674@gmail.com,92 Washington Blvd Mumbai 317221
+110,Heritage Junction,8710668371,heritage.junction952@gmail.com,154 Market St Mysore 352153
+111,Palace Stop,9907843037,palace.stop919@rediffmail.com,170 Brigade Rd Navi Mumbai 875679
+112,Urban House,9150888898,urban.house764@outlook.com,28 Pine St Nagpur 343420
+113,The Great Garden,9599179944,the.great.garden788@rediffmail.com,489 Phase 5 Bhopal 911131
+114,The Original Grill,9723537339,the.original.grill280@hotmail.com,252 Station Rd Indore 679902
+115,Silver Tandoor,7797737957,silver.tandoor697@rediffmail.com,339 Brigade Rd Bangalore 909676
+116,Rustic Dhaba,8058493748,rustic.dhaba731@gmail.com,43 Sunset Blvd Chennai 498458
+117,Saffron Stop,8360122653,saffron.stop370@gmail.com,47 Main St Lucknow 566339
+118,Diamond Eatery,7439080604,diamond.eatery136@gmail.com,96 FC Road Surat 684041
+119,Garden Den,8752536389,garden.den106@gmail.com,46 Nehru Marg Kochi 197584
+120,Fusion Delight,8654584280,fusion.delight13@outlook.com,212 Brigade Rd Navi Mumbai 188813
+121,Garden Bowl,9456551333,garden.bowl534@yahoo.com,351 Brigade Rd Kolkata 245584
+122,Paradise Lounge,8152798401,paradise.lounge505@yahoo.com,33 Market St Nagpur 389366
+123,Red Lounge,9079757650,red.lounge802@gmail.com,185 Forest Dr Ahmedabad 855917
+124,Crispy Place,8966500767,crispy.place110@yahoo.com,156 Main St Bhopal 448354
+125,Rustic Stop,8415370893,rustic.stop451@outlook.com,221 Phase 5 Chennai 415029
+126,Fresh Delight,7762946257,fresh.delight988@hotmail.com,496 Washington Blvd Lucknow 870571
+127,Crispy Bowl,8399670743,crispy.bowl386@outlook.com,419 Anna Salai Indore 219420
+128,Palace Place,9543595727,palace.place559@yahoo.com,350 Connaught Place Mumbai 862538
+129,Happy Dhaba,9975704877,happy.dhaba71@hotmail.com,345 Civil Lines Chennai 764100
+130,Flavors of Bowl,8085259583,flavors.of.bowl675@yahoo.com,367 FC Road Bhopal 177558
+131,Happy Bar & Grill,9500719008,happy.bar.&.grill411@rediffmail.com,260 Linking Rd Kochi 138551
+132,Diamond Terrace,9550437218,diamond.terrace654@gmail.com,56 College Ave Faridabad 796982
+133,Rustic Bistro,9419012709,rustic.bistro661@icloud.com,332 Anna Salai Navi Mumbai 447704
+134,Blue Palace,7045302356,blue.palace101@outlook.com,114 Residency Rd Thane 643998
+135,Garden Bites,8914604319,garden.bites384@hotmail.com,238 Sector 17 Ghaziabad 624776
+136,Saffron Hut,7105495798,saffron.hut495@gmail.com,152 Linking Rd Bangalore 221707
+137,Fire Bar & Grill,8495938377,fire.bar.&.grill488@gmail.com,225 SG Highway Chandigarh 170437
+138,Flavors of Bistro,7494287462,flavors.of.bistro24@outlook.com,332 Pine St Faridabad 938913
+139,Curry Bowl,9216176949,curry.bowl179@rediffmail.com,82 Gandhi Rd Kochi 547080
+140,Lucky Bites,8739665472,lucky.bites645@yahoo.com,96 Industrial Area Faridabad 553125
+141,Green Grill,9637569206,green.grill905@yahoo.com,231 Sector 17 Nagpur 507723
+142,The Golden Table,7883837629,the.golden.table286@icloud.com,415 Cedar Rd Mysore 206694
+143,Ocean Spot,8571069113,ocean.spot334@yahoo.com,235 Walnut Ave Jaipur 803281
+144,Crispy Nest,9744950470,crispy.nest321@rediffmail.com,199 Block C Bhopal 715519
+145,Classic Hut,8511763726,classic.hut866@hotmail.com,317 Lake Rd Faridabad 840282
+146,Flavors of House,9886690817,flavors.of.house138@outlook.com,61 College Ave Lucknow 222629
+147,Saffron Den,8668437028,saffron.den429@rediffmail.com,71 Rajpath Bhopal 543588
+148,Tandoori Inn,9729458763,tandoori.inn551@icloud.com,471 Lake Rd Kochi 274971
+149,Crispy Dhaba,7602569046,crispy.dhaba192@outlook.com,432 SG Highway Noida 156215
+150,Star Kitchen,9081379485,star.kitchen140@yahoo.com,418 Brigade Rd Kochi 629990
+151,Crispy Wok,9940749808,crispy.wok504@hotmail.com,364 SG Highway Vadodara 275377
+152,Little Grill,7947167036,little.grill300@gmail.com,141 Station Rd Kochi 402692
+153,Curry Restaurant,9429450217,curry.restaurant761@hotmail.com,282 Residency Rd Hyderabad 700534
+154,Ocean Point,9328058564,ocean.point843@gmail.com,390 SG Highway Kochi 329157
+155,Mumbai Lounge,7138428506,mumbai.lounge461@outlook.com,179 Maple Dr Surat 223088
+156,Mumbai Table,9525113890,mumbai.table706@outlook.com,441 Block C Gurgaon 548965
+157,Curry Corner,7887424665,curry.corner834@yahoo.com,413 Elm St Mysore 467856
+158,Ocean Eatery,9563484242,ocean.eatery552@yahoo.com,166 Spring St Lucknow 700556
+159,Paradise Den,9917568337,paradise.den835@gmail.com,70 Linking Rd Delhi 390794
+160,Urban Corner,8072355594,urban.corner150@icloud.com,165 College Ave Navi Mumbai 984532
+161,Green Inn,7610622521,green.inn592@icloud.com,138 Industrial Area Nagpur 493396
+162,Little Zone,9214542998,little.zone768@outlook.com,356 MG Road Surat 611751
+163,The Original Kitchen,7400040376,the.original.kitchen749@hotmail.com,326 Nehru Marg Bangalore 934328
+164,Ocean Zone,7935572425,ocean.zone992@hotmail.com,423 River Rd Vadodara 381581
+165,The Original Dhaba,8450647350,the.original.dhaba561@rediffmail.com,67 Rajpath Vadodara 926596
+166,Grand Cafe,7197323378,grand.cafe102@icloud.com,402 Ring Rd Mumbai 230272
+167,Curry Spice,8960730480,curry.spice1@hotmail.com,104 Broadway Gurgaon 416528
+168,Curry Eatery,7400892179,curry.eatery671@outlook.com,129 Maple Dr Indore 796787
+169,Curry Cafe,8702274064,curry.cafe641@outlook.com,372 Station Rd Nagpur 787326
+170,Little Palace,7004665657,little.palace219@hotmail.com,40 Broadway Mysore 337178
+171,Fire Spice,7039887139,fire.spice9@icloud.com,176 Walnut Ave Nagpur 827744
+172,The Great Bites,8645272822,the.great.bites92@icloud.com,413 Pine St Hyderabad 428572
+173,Diamond Lounge,7588965831,diamond.lounge392@yahoo.com,329 Church St Bangalore 656278
+174,Palace Kitchen,9621301168,palace.kitchen666@yahoo.com,226 Nehru Marg Thane 323404
+175,Saffron Wok,9646026315,saffron.wok704@hotmail.com,441 River Rd Bangalore 205345
+176,Urban Express,9532200677,urban.express748@hotmail.com,180 FC Road Chandigarh 929504
+177,Urban Bowl,8189567020,urban.bowl661@gmail.com,128 Connaught Place Noida 729153
+178,Fusion Dhaba,9965572185,fusion.dhaba28@icloud.com,449 Lincoln Ave Pune 642899
+179,Fusion Den,7810230640,fusion.den766@hotmail.com,152 Elm St Ahmedabad 618927
+180,Silver Express,8035438246,silver.express512@icloud.com,305 Cedar Rd Coimbatore 112653
+181,Diamond Delight,7566862173,diamond.delight397@rediffmail.com,216 MG Road Kochi 816116
+182,Tandoori Bar & Grill,7313497572,tandoori.bar.&.grill18@rediffmail.com,35 Main St Jaipur 326222
+183,Spice Cafe,8709289717,spice.cafe519@outlook.com,322 Residency Rd Navi Mumbai 535612
+184,Blue Zone,7354024760,blue.zone656@rediffmail.com,276 Block C Chennai 390946
+185,Little Lounge,7339395013,little.lounge524@yahoo.com,499 Church St Kochi 442622
+186,Green Diner,8332167822,green.diner716@hotmail.com,374 College Ave Delhi 356355
+187,Little Tandoor,7498158588,little.tandoor465@rediffmail.com,312 Elm St Lucknow 798435
+188,Tandoori Express,7054395639,tandoori.express725@yahoo.com,360 Main St Kolkata 620526
+189,Star Nest,9221455181,star.nest802@icloud.com,133 Market St Indore 233096
+190,Paradise Express,7126084156,paradise.express344@hotmail.com,140 Banjara Hills Bangalore 375722
+191,Palace Diner,9130937594,palace.diner467@rediffmail.com,185 Elm St Vadodara 694423
+192,Curry Point,7675641216,curry.point262@gmail.com,458 Rajpath Faridabad 857888
+193,Classic Bites,9185386258,classic.bites3@gmail.com,440 Main St Ahmedabad 148215
+194,Fresh Point,8644884312,fresh.point943@yahoo.com,92 Oak Lane Kochi 942127
+195,Red Bites,8382129132,red.bites255@hotmail.com,469 Washington Blvd Jaipur 966120
+196,The Great Point,7512823094,the.great.point515@icloud.com,462 Elm St Kolkata 334026
+197,Fire Bistro,8721959126,fire.bistro71@hotmail.com,444 Spring St Navi Mumbai 985885
+198,Flavors of Delight,7371022983,flavors.of.delight567@hotmail.com,5 MG Road Pune 405759
+199,Palace Lounge,9674551397,palace.lounge249@hotmail.com,189 Sector 17 Vadodara 910143
+200,Masala Terrace,8052811909,masala.terrace155@gmail.com,478 Linking Rd Mumbai 344315

@@ -1,0 +1,201 @@
+id,restaurent_id,customer_id,delivery_partners_id,status,payment
+1,36,68,94,Order Placed,0
+2,60,66,77,Delivered,1
+3,146,56,188,Delivered,1
+4,124,45,125,Delivered,0
+5,153,165,77,Delivered,1
+6,21,200,15,Delivered,1
+7,90,112,107,Delivered,0
+8,192,168,155,Delivered,1
+9,14,79,135,Delivered,1
+10,139,145,39,Delivered,0
+11,40,13,173,Delivered,1
+12,115,193,153,Order Placed,0
+13,57,111,75,Delivered,1
+14,38,34,87,Delivered,1
+15,147,191,13,Preparing,1
+16,68,22,103,Preparing,1
+17,199,179,34,Delivered,0
+18,124,144,51,Out for Delivery,1
+19,167,147,51,Preparing,0
+20,63,19,69,Delivered,1
+21,83,176,148,Delivered,0
+22,172,106,109,Delivered,1
+23,49,83,89,Order Placed,0
+24,198,79,44,Delivered,1
+25,160,38,113,Delivered,0
+26,52,176,96,Delivered,0
+27,29,190,14,Delivered,0
+28,74,4,88,Delivered,0
+29,79,116,121,Delivered,1
+30,54,190,138,Delivered,0
+31,140,134,193,Delivered,1
+32,160,187,37,Delivered,0
+33,97,150,170,Preparing,0
+34,66,44,16,Delivered,0
+35,179,159,70,Delivered,1
+36,168,3,18,Delivered,1
+37,170,169,93,Delivered,0
+38,75,167,99,Delivered,1
+39,131,182,26,Delivered,1
+40,153,137,23,Delivered,0
+41,129,118,144,Delivered,0
+42,11,64,136,Delivered,1
+43,126,101,191,Delivered,0
+44,89,176,91,Delivered,1
+45,61,129,71,Delivered,0
+46,161,66,100,Delivered,1
+47,58,39,88,Delivered,0
+48,23,187,98,Preparing,0
+49,107,62,147,Delivered,1
+50,80,155,85,Out for Delivery,0
+51,53,168,36,Order Placed,0
+52,36,80,177,Delivered,0
+53,111,198,38,Cancelled,0
+54,82,18,143,Preparing,0
+55,48,82,38,Delivered,0
+56,196,82,106,Delivered,1
+57,114,191,164,Delivered,1
+58,39,200,49,Delivered,0
+59,48,7,196,Order Placed,1
+60,156,146,157,Delivered,0
+61,60,176,7,Delivered,0
+62,177,200,123,Delivered,1
+63,183,167,96,Delivered,1
+64,126,122,36,Delivered,0
+65,58,9,105,Delivered,0
+66,70,106,57,Delivered,0
+67,194,53,17,Delivered,1
+68,158,126,177,Delivered,1
+69,64,110,104,Delivered,0
+70,156,189,98,Delivered,1
+71,101,157,191,Order Placed,0
+72,134,28,116,Out for Delivery,0
+73,63,133,138,Delivered,0
+74,143,100,133,Delivered,0
+75,49,75,113,Delivered,1
+76,199,74,119,Delivered,1
+77,76,157,14,Delivered,0
+78,119,166,116,Delivered,0
+79,47,200,150,Delivered,0
+80,101,106,83,Out for Delivery,0
+81,46,117,152,Delivered,0
+82,117,24,65,Delivered,0
+83,184,188,32,Delivered,0
+84,181,116,163,Delivered,0
+85,135,182,99,Delivered,0
+86,97,141,98,Delivered,0
+87,86,145,169,Delivered,0
+88,38,46,197,Delivered,0
+89,108,79,80,Delivered,1
+90,74,161,47,Delivered,0
+91,52,1,160,Delivered,1
+92,4,118,128,Out for Delivery,0
+93,156,127,61,Delivered,1
+94,117,105,114,Delivered,0
+95,63,141,72,Order Placed,0
+96,13,48,38,Delivered,1
+97,10,38,9,Cancelled,1
+98,85,23,13,Delivered,1
+99,46,42,173,Delivered,0
+100,117,192,149,Delivered,0
+101,24,197,77,Delivered,1
+102,98,18,195,Delivered,0
+103,75,121,35,Delivered,1
+104,85,135,106,Preparing,0
+105,179,54,157,Delivered,0
+106,147,187,162,Preparing,0
+107,124,186,177,Order Placed,1
+108,110,156,82,Delivered,1
+109,34,158,145,Out for Delivery,1
+110,127,47,157,Delivered,1
+111,50,1,31,Delivered,1
+112,161,31,189,Delivered,1
+113,106,12,86,Delivered,0
+114,3,164,52,Delivered,1
+115,66,18,79,Delivered,1
+116,197,2,30,Cancelled,1
+117,88,102,186,Order Placed,0
+118,45,50,85,Delivered,1
+119,122,10,166,Delivered,1
+120,40,161,118,Preparing,1
+121,119,106,191,Delivered,1
+122,145,186,174,Delivered,0
+123,54,148,176,Delivered,1
+124,17,39,72,Delivered,1
+125,97,161,137,Delivered,1
+126,48,153,30,Delivered,1
+127,181,81,182,Delivered,1
+128,106,23,128,Delivered,1
+129,116,78,56,Preparing,1
+130,45,29,96,Delivered,0
+131,200,52,24,Out for Delivery,0
+132,124,129,40,Delivered,1
+133,124,188,135,Delivered,1
+134,37,197,26,Preparing,0
+135,53,186,10,Out for Delivery,1
+136,183,134,30,Delivered,1
+137,12,176,153,Delivered,1
+138,120,12,27,Preparing,1
+139,6,148,195,Delivered,0
+140,83,52,50,Delivered,1
+141,137,82,198,Out for Delivery,0
+142,70,39,41,Delivered,0
+143,4,160,144,Preparing,0
+144,53,139,90,Preparing,1
+145,70,37,181,Delivered,1
+146,147,63,44,Delivered,1
+147,157,87,139,Out for Delivery,0
+148,34,8,121,Cancelled,0
+149,28,99,14,Delivered,1
+150,101,46,181,Order Placed,1
+151,158,92,80,Delivered,0
+152,183,195,172,Delivered,0
+153,194,196,120,Order Placed,0
+154,24,179,120,Delivered,1
+155,80,176,165,Delivered,1
+156,121,60,58,Delivered,1
+157,94,101,47,Delivered,1
+158,84,117,125,Delivered,0
+159,122,29,90,Out for Delivery,1
+160,44,73,197,Delivered,0
+161,131,27,104,Delivered,0
+162,84,143,167,Delivered,1
+163,137,119,103,Order Placed,1
+164,62,159,63,Preparing,0
+165,124,99,17,Delivered,0
+166,178,152,111,Delivered,1
+167,146,88,140,Delivered,0
+168,45,170,172,Delivered,1
+169,30,152,153,Out for Delivery,1
+170,143,25,114,Delivered,1
+171,104,18,154,Delivered,1
+172,84,127,166,Cancelled,0
+173,24,56,36,Order Placed,0
+174,194,38,170,Delivered,1
+175,137,75,100,Order Placed,1
+176,51,53,175,Delivered,1
+177,146,174,78,Delivered,1
+178,23,150,3,Order Placed,1
+179,33,76,16,Delivered,0
+180,1,181,144,Delivered,0
+181,73,8,61,Delivered,1
+182,161,82,183,Delivered,1
+183,98,112,140,Delivered,0
+184,122,36,49,Preparing,1
+185,93,107,40,Delivered,0
+186,35,3,19,Cancelled,0
+187,37,185,125,Cancelled,1
+188,35,22,36,Cancelled,1
+189,117,179,155,Delivered,0
+190,117,131,109,Preparing,1
+191,99,91,58,Delivered,1
+192,155,2,148,Out for Delivery,0
+193,183,129,69,Delivered,1
+194,9,10,146,Out for Delivery,1
+195,29,149,124,Delivered,0
+196,37,187,188,Preparing,1
+197,120,133,21,Preparing,0
+198,63,121,162,Delivered,0
+199,176,163,139,Delivered,1
+200,157,14,88,Preparing,0

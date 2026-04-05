@@ -1,0 +1,201 @@
+id,restaurent_id,name,price,description,quantity
+1,148,Stuffed Kulcha,82,Stuffed bread baked in tandoor,6 pieces
+2,169,Palak Paneer,257,Cottage cheese in spinach gravy,250 gm
+3,180,Fresh Lime Soda,60,Lemon soda sweet or salty,Half portion
+4,131,Kadai Paneer,285,Paneer with bell peppers in kadai masala,1 piece
+5,158,Pasta Alfredo,304,Creamy white sauce pasta,2 pieces
+6,100,Chicken Curry,340,Traditional home-style chicken curry,1 plate
+7,38,Papdi Chaat,130,Crispy wafers with yogurt and chutneys,Large
+8,23,Cold Coffee,104,Blended cold coffee with ice cream,500 gm
+9,95,Chicken Korma,335,Chicken in mild creamy cashew gravy,Large
+10,186,Onion Bhaji,124,Crispy onion fritters with gram flour,6 pieces
+11,168,Falafel Wrap,183,Crispy chickpea patties in wrap,1 kg
+12,15,Paneer Wrap,209,Grilled paneer rolled in tortilla,1 serving
+13,113,Fried Momos,140,Fried dumplings with spicy sauce,2 servings
+14,74,Chilli Paneer,232,Paneer tossed in spicy Chinese sauce,2 pieces
+15,131,Paneer Wrap,193,Grilled paneer rolled in tortilla,250 gm
+16,44,Falafel Wrap,193,Crispy chickpea patties in wrap,2 pieces
+17,62,Gulab Jamun,121,Deep fried milk solids in sugar syrup,1 plate
+18,23,Chicken Curry,317,Traditional home-style chicken curry,6 pieces
+19,172,Lemon Rice,145,Tangy rice with lemon and peanuts,6 pieces
+20,52,Chicken Burger,213,Grilled chicken patty with lettuce,1 plate
+21,24,Aloo Tikki,115,Spiced potato patties served with chutney,1 kg
+22,150,Pasta Arrabiata,262,Pasta in spicy tomato sauce,4 pieces
+23,58,Naan,68,Soft leavened bread baked in tandoor,2 servings
+24,104,Buttermilk,66,Spiced yogurt drink,1 plate
+25,45,Lamb Vindaloo,406,Spicy Goan style lamb curry,500 ml
+26,144,Chicken Wings,244,Spicy fried chicken wings,500 ml
+27,88,Butter Roti,27,Whole wheat flatbread with butter,500 ml
+28,138,Prawn Masala,480,Prawns in spicy onion tomato masala,Regular
+29,178,Prawn Masala,458,Prawns in spicy onion tomato masala,6 pieces
+30,124,Garlic Bread,179,Toasted bread with garlic butter,250 gm
+31,199,Fried Rice,189,Stir fried rice with vegetables,1 cup
+32,8,Chicken Burger,210,Grilled chicken patty with lettuce,Half portion
+33,18,Lamb Vindaloo,404,Spicy Goan style lamb curry,250 gm
+34,81,Aloo Gobi,186,Potato and cauliflower dry curry,4 pieces
+35,138,Chilli Paneer,220,Paneer tossed in spicy Chinese sauce,500 gm
+36,74,Malai Kofta,275,Fried paneer balls in creamy gravy,6 pieces
+37,20,Fried Rice,195,Stir fried rice with vegetables,1 serving
+38,81,Hakka Noodles,202,Stir fried noodles with vegetables,2 servings
+39,69,Veggie Supreme Pizza,311,Loaded with assorted vegetables,2 servings
+40,189,Fried Momos,152,Fried dumplings with spicy sauce,250 gm
+41,68,Shahi Paneer,293,Paneer in rich creamy cashew gravy,250 gm
+42,64,Fish Curry,399,Fish cooked in coconut based curry,4 pieces
+43,200,Veg Biryani,236,Fragrant basmati rice with mixed vegetables,Half portion
+44,174,Hara Bhara Kebab,202,Spinach and pea vegetarian kebabs,300 ml
+45,2,Falafel Wrap,198,Crispy chickpea patties in wrap,1 litre
+46,124,Fish Fingers,303,Crispy fried fish strips with tartar sauce,Large
+47,127,Missi Roti,66,Gram flour mixed wheat flatbread,500 gm
+48,47,Manchow Soup,178,Spicy vegetable soup with noodles,500 ml
+49,102,Naan,44,Soft leavened bread baked in tandoor,Regular
+50,14,Dal Makhani,263,Slow cooked black lentils in cream,1 glass
+51,139,Chilli Chicken,262,Spicy Indo-Chinese chicken,500 ml
+52,101,Pulao,183,Mildly spiced rice with vegetables,1 serving
+53,31,Buttermilk,74,Spiced yogurt drink,500 ml
+54,81,Buttermilk,74,Spiced yogurt drink,1 plate
+55,173,Chicken Tikka,273,Tender chicken pieces grilled in tandoor,6 pieces
+56,26,Classic Veg Burger,150,Crispy veggie patty burger,4 pieces
+57,67,Falafel Wrap,161,Crispy chickpea patties in wrap,1 litre
+58,61,Lamb Vindaloo,397,Spicy Goan style lamb curry,300 ml
+59,88,Falafel Wrap,173,Crispy chickpea patties in wrap,1 serving
+60,109,Fried Momos,153,Fried dumplings with spicy sauce,1 glass
+61,94,Rasgulla,105,Soft cottage cheese balls in syrup,500 gm
+62,47,Fresh Lime Soda,86,Lemon soda sweet or salty,Full portion
+63,176,Veggie Supreme Pizza,314,Loaded with assorted vegetables,Half portion
+64,61,Mushroom Masala,255,Mushrooms in thick spicy gravy,1 glass
+65,51,Kheer,109,Creamy rice pudding with nuts,Full portion
+66,3,Hakka Noodles,191,Stir fried noodles with vegetables,1 glass
+67,35,Fried Momos,180,Fried dumplings with spicy sauce,500 ml
+68,185,Margherita Pizza,250,Classic pizza with mozzarella and basil,300 ml
+69,65,Laccha Paratha,75,Layered flaky whole wheat bread,Regular
+70,102,Seekh Kebab,306,Minced meat skewers grilled on charcoal,1 serving
+71,56,Mushroom Manchurian,196,Indo-Chinese style mushroom balls,300 ml
+72,116,Gobi Manchurian,217,Cauliflower in spicy Indo-Chinese sauce,1 piece
+73,93,Lamb Vindaloo,403,Spicy Goan style lamb curry,1 litre
+74,66,Pasta Arrabiata,262,Pasta in spicy tomato sauce,1 plate
+75,32,Rasmalai,132,Cottage cheese patties in sweet milk,Large
+76,148,Fish Curry,396,Fish cooked in coconut based curry,1 litre
+77,200,Chole Bhature,178,Chickpea curry with fried bread,4 pieces
+78,173,Steamed Rice,112,Plain basmati steamed rice,300 ml
+79,21,Fresh Lime Soda,74,Lemon soda sweet or salty,Large
+80,119,Garlic Naan,90,Naan topped with garlic and butter,Full portion
+81,164,Rajma Chawal,201,Kidney beans curry with steamed rice,1 glass
+82,147,Falafel Wrap,175,Crispy chickpea patties in wrap,1 bowl
+83,42,Hara Bhara Kebab,181,Spinach and pea vegetarian kebabs,250 gm
+84,82,Missi Roti,71,Gram flour mixed wheat flatbread,1 kg
+85,155,Mushroom Masala,261,Mushrooms in thick spicy gravy,6 pieces
+86,114,Mushroom Masala,269,Mushrooms in thick spicy gravy,4 pieces
+87,134,Chicken Burger,208,Grilled chicken patty with lettuce,1 glass
+88,48,Rajma Chawal,181,Kidney beans curry with steamed rice,Full portion
+89,170,Shahi Paneer,296,Paneer in rich creamy cashew gravy,1 bowl
+90,43,Egg Curry,205,Boiled eggs in onion tomato gravy,Half portion
+91,17,Gobi Manchurian,200,Cauliflower in spicy Indo-Chinese sauce,1 litre
+92,7,Seekh Kebab,349,Minced meat skewers grilled on charcoal,6 pieces
+93,196,Dragon Chicken,285,Crispy chicken in fiery sauce,Half portion
+94,159,Lamb Vindaloo,389,Spicy Goan style lamb curry,1 bowl
+95,80,Gajar Ka Halwa,144,Grated carrot pudding with milk,250 gm
+96,114,Garlic Naan,90,Naan topped with garlic and butter,Full portion
+97,135,Dal Makhani,240,Slow cooked black lentils in cream,1 plate
+98,170,Onion Bhaji,122,Crispy onion fritters with gram flour,1 piece
+99,120,Hakka Noodles,214,Stir fried noodles with vegetables,500 gm
+100,114,Pasta Alfredo,268,Creamy white sauce pasta,1 litre
+101,152,Chole Bhature,198,Chickpea curry with fried bread,1 cup
+102,112,Garlic Bread,163,Toasted bread with garlic butter,1 litre
+103,89,Stuffed Kulcha,90,Stuffed bread baked in tandoor,1 litre
+104,23,Aloo Gobi,188,Potato and cauliflower dry curry,1 kg
+105,106,Gulab Jamun,96,Deep fried milk solids in sugar syrup,Full portion
+106,3,Laccha Paratha,40,Layered flaky whole wheat bread,500 ml
+107,89,Palak Paneer,268,Cottage cheese in spinach gravy,300 ml
+108,3,Margherita Pizza,274,Classic pizza with mozzarella and basil,300 ml
+109,77,Chilli Chicken,260,Spicy Indo-Chinese chicken,1 glass
+110,153,Butter Roti,34,Whole wheat flatbread with butter,1 plate
+111,96,Pasta Alfredo,272,Creamy white sauce pasta,1 glass
+112,112,Pasta Arrabiata,265,Pasta in spicy tomato sauce,250 gm
+113,184,Chicken Curry,347,Traditional home-style chicken curry,6 pieces
+114,57,Kheer,116,Creamy rice pudding with nuts,1 bowl
+115,161,Masala Chai,35,Spiced Indian tea with milk,500 ml
+116,178,Falafel Wrap,193,Crispy chickpea patties in wrap,500 gm
+117,167,Garlic Naan,97,Naan topped with garlic and butter,1 litre
+118,106,Mushroom Masala,232,Mushrooms in thick spicy gravy,1 bowl
+119,35,Mutton Rogan Josh,418,Slow cooked mutton in Kashmiri spices,Half portion
+120,159,Buttermilk,58,Spiced yogurt drink,500 gm
+121,49,Manchow Soup,150,Spicy vegetable soup with noodles,1 plate
+122,13,Veg Biryani,264,Fragrant basmati rice with mixed vegetables,1 plate
+123,27,Mutton Rogan Josh,418,Slow cooked mutton in Kashmiri spices,500 gm
+124,184,Dal Makhani,258,Slow cooked black lentils in cream,1 plate
+125,24,Aloo Gobi,169,Potato and cauliflower dry curry,1 plate
+126,56,Fried Momos,161,Fried dumplings with spicy sauce,1 glass
+127,128,Stuffed Kulcha,83,Stuffed bread baked in tandoor,1 cup
+128,85,Onion Bhaji,105,Crispy onion fritters with gram flour,Full portion
+129,69,Mushroom Manchurian,229,Indo-Chinese style mushroom balls,6 pieces
+130,140,Tandoori Prawns,460,Jumbo prawns marinated and grilled,1 serving
+131,65,Paneer Butter Masala,294,Paneer in rich buttery tomato gravy,1 plate
+132,197,Butter Chicken,375,Creamy tomato-based chicken curry,250 gm
+133,198,Gajar Ka Halwa,158,Grated carrot pudding with milk,250 gm
+134,51,Onion Bhaji,129,Crispy onion fritters with gram flour,Half portion
+135,171,Chilli Paneer,233,Paneer tossed in spicy Chinese sauce,300 ml
+136,175,Gajar Ka Halwa,149,Grated carrot pudding with milk,1 piece
+137,162,Chicken Curry,346,Traditional home-style chicken curry,2 pieces
+138,134,Pasta Alfredo,267,Creamy white sauce pasta,500 gm
+139,164,Chilli Chicken,279,Spicy Indo-Chinese chicken,2 servings
+140,14,Gulab Jamun,122,Deep fried milk solids in sugar syrup,2 servings
+141,61,Veg Pakora,120,Mixed vegetable fritters,1 glass
+142,4,Steamed Rice,90,Plain basmati steamed rice,500 gm
+143,31,Classic Veg Burger,155,Crispy veggie patty burger,250 gm
+144,11,Chicken Tikka,297,Tender chicken pieces grilled in tandoor,300 ml
+145,40,Paneer Wrap,183,Grilled paneer rolled in tortilla,1 bowl
+146,41,Malai Kofta,301,Fried paneer balls in creamy gravy,1 bowl
+147,195,Fried Rice,200,Stir fried rice with vegetables,2 pieces
+148,92,Mushroom Manchurian,221,Indo-Chinese style mushroom balls,Full portion
+149,28,Margherita Pizza,238,Classic pizza with mozzarella and basil,300 ml
+150,82,Aloo Gobi,195,Potato and cauliflower dry curry,4 pieces
+151,188,Mango Lassi,92,Sweet yogurt drink with mango,1 plate
+152,92,Kheer,146,Creamy rice pudding with nuts,Full portion
+153,11,Prawn Masala,461,Prawns in spicy onion tomato masala,1 cup
+154,76,Pasta Arrabiata,274,Pasta in spicy tomato sauce,300 ml
+155,146,Paneer Butter Masala,281,Paneer in rich buttery tomato gravy,1 litre
+156,83,Pulao,186,Mildly spiced rice with vegetables,1 cup
+157,154,Naan,65,Soft leavened bread baked in tandoor,1 serving
+158,136,Aloo Tikki,89,Spiced potato patties served with chutney,1 cup
+159,68,Butter Roti,54,Whole wheat flatbread with butter,4 pieces
+160,1,Buttermilk,79,Spiced yogurt drink,500 ml
+161,188,Kheer,111,Creamy rice pudding with nuts,1 plate
+162,199,Gulab Jamun,119,Deep fried milk solids in sugar syrup,250 gm
+163,185,Steamed Rice,84,Plain basmati steamed rice,1 litre
+164,49,Gajar Ka Halwa,163,Grated carrot pudding with milk,300 ml
+165,40,Pasta Alfredo,299,Creamy white sauce pasta,1 kg
+166,105,Steamed Rice,121,Plain basmati steamed rice,1 piece
+167,25,Veg Pakora,113,Mixed vegetable fritters,1 bowl
+168,34,Fish Fingers,291,Crispy fried fish strips with tartar sauce,2 pieces
+169,28,Fish Curry,391,Fish cooked in coconut based curry,2 servings
+170,9,Gobi Manchurian,206,Cauliflower in spicy Indo-Chinese sauce,6 pieces
+171,135,Manchow Soup,169,Spicy vegetable soup with noodles,Regular
+172,13,Prawn Masala,453,Prawns in spicy onion tomato masala,250 gm
+173,184,Chicken Shawarma,144,Middle Eastern style chicken wrap,1 plate
+174,168,Egg Curry,211,Boiled eggs in onion tomato gravy,1 bowl
+175,164,Mint Mojito,113,Refreshing mint and lime cooler,4 pieces
+176,191,Pasta Arrabiata,266,Pasta in spicy tomato sauce,4 pieces
+177,158,Mushroom Manchurian,197,Indo-Chinese style mushroom balls,500 ml
+178,188,Fish Fingers,284,Crispy fried fish strips with tartar sauce,1 kg
+179,56,Tandoori Prawns,463,Jumbo prawns marinated and grilled,Half portion
+180,186,Gobi Manchurian,184,Cauliflower in spicy Indo-Chinese sauce,1 litre
+181,49,Gajar Ka Halwa,142,Grated carrot pudding with milk,500 ml
+182,146,Malai Kofta,310,Fried paneer balls in creamy gravy,1 serving
+183,192,Pasta Arrabiata,275,Pasta in spicy tomato sauce,1 glass
+184,197,Chicken Wings,280,Spicy fried chicken wings,Regular
+185,173,Lemon Rice,149,Tangy rice with lemon and peanuts,1 glass
+186,43,Chicken Wings,290,Spicy fried chicken wings,1 serving
+187,103,Pasta Alfredo,292,Creamy white sauce pasta,1 piece
+188,137,Chicken Curry,338,Traditional home-style chicken curry,1 cup
+189,81,Lemon Rice,155,Tangy rice with lemon and peanuts,1 piece
+190,106,Rasgulla,128,Soft cottage cheese balls in syrup,1 glass
+191,156,Steamed Rice,95,Plain basmati steamed rice,Regular
+192,55,Pepperoni Pizza,354,Pizza topped with spicy pepperoni,1 litre
+193,93,Prawn Masala,458,Prawns in spicy onion tomato masala,1 cup
+194,1,Kulfi,106,Traditional Indian ice cream,2 pieces
+195,153,Garlic Naan,51,Naan topped with garlic and butter,500 ml
+196,78,Palak Paneer,250,Cottage cheese in spinach gravy,1 kg
+197,55,Chicken Korma,350,Chicken in mild creamy cashew gravy,1 plate
+198,142,Naan,62,Soft leavened bread baked in tandoor,1 litre
+199,147,Veggie Supreme Pizza,309,Loaded with assorted vegetables,Half portion
+200,118,Onion Bhaji,122,Crispy onion fritters with gram flour,Full portion
