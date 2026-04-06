@@ -1,4 +1,5 @@
 import express from "express";
+import cors from "cors";
 import { initDB } from "./db.js";
 
 // Import route modules
@@ -10,18 +11,25 @@ import ordersRouter from "./routes/orders.js";
 import reviewsRouter from "./routes/reviews.js";
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 5000;
 
 // Middleware
+app.use(cors());
 app.use(express.json());
 
-// Mount routes
-app.use("/delivery-partners", deliveryPartnersRouter);
-app.use("/restaurants", restaurantsRouter);
-app.use("/customers", customersRouter);
-app.use("/dishes", dishesRouter);
-app.use("/orders", ordersRouter);
-app.use("/reviews", reviewsRouter);
+// API Router
+const apiRouter = express.Router();
+
+// Mount routes on API router
+apiRouter.use("/delivery_partners", deliveryPartnersRouter); // Fixed to match client expectations
+apiRouter.use("/restaurants", restaurantsRouter);
+apiRouter.use("/customers", customersRouter);
+apiRouter.use("/dishes", dishesRouter);
+apiRouter.use("/orders", ordersRouter);
+apiRouter.use("/reviews", reviewsRouter);
+
+// Mount API router
+app.use("/api", apiRouter);
 
 // Health check
 app.get("/", (req, res) => {
@@ -33,6 +41,7 @@ initDB()
   .then(() => {
     app.listen(PORT, () => {
       console.log(`🚀 Server running on http://localhost:${PORT}`);
+      console.log(`📡 API Base URL: http://localhost:${PORT}/api`);
     });
   })
   .catch((err) => {

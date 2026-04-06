@@ -1,11 +1,14 @@
-import pg from "pg";
+import { Pool, neonConfig } from "@neondatabase/serverless";
+import ws from "ws";
 import dotenv from "dotenv";
 
 dotenv.config();
 
-const pool = new pg.Pool({
+// Standard for using Neon Serverless in Node environments
+neonConfig.webSocketConstructor = ws;
+
+const pool = new Pool({
   connectionString: process.env.DATABASE_URL,
-  ssl: { rejectUnauthorized: false },
 });
 
 // Test the connection on startup
