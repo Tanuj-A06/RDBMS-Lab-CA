@@ -37,7 +37,7 @@ export default function GenericEntityView({ entity, title, schema, colorClass = 
 
   const handleSubmit = async (formData) => {
     try {
-      if (editItem) {
+      if (editItem && !editItem._isNew) {
         await updateRecord(editItem.id, formData);
       } else {
         await createRecord(formData);
