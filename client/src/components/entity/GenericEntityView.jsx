@@ -23,7 +23,10 @@ export default function GenericEntityView({ entity, title, schema, colorClass = 
   }, [data, searchTerm]);
 
   const handleCreate = () => {
-    setEditItem(null);
+    const nextId = data?.length > 0
+      ? Math.max(...data.map(d => parseInt(d.id, 10) || 0)) + 1
+      : 1;
+    setEditItem({ id: nextId, _isNew: true });
     setView('form');
   };
 

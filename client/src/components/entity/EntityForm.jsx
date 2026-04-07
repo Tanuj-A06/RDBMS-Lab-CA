@@ -3,11 +3,17 @@ import NeoButton from '../ui/NeoButton';
 import NeoInput from '../ui/NeoInput';
 
 export default function EntityForm({ schema, initialData, onSubmit, onCancel, title, colorClass = 'bg-neo-green' }) {
-  const [formData, setFormData] = useState(initialData || {});
+  const isNew = initialData?._isNew;
+  const [formData, setFormData] = useState(() => {
+    if (!initialData) return {};
+    const { _isNew, ...rest } = initialData;
+    return rest;
+  });
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    onSubmit(formData);
+    const { _isNew, ...cleanData } = formData;
+    onSubmit(cleanData);
   };
 
   const handleChange = (name, value) => {
@@ -17,7 +23,7 @@ export default function EntityForm({ schema, initialData, onSubmit, onCancel, ti
   return (
     <div className={`p-8 border-4 border-black shadow-brutal bg-white max-w-2xl mx-auto animate-in slide-in-from-top-4 duration-300`}>
       <h2 className={`text-2xl font-black uppercase mb-8 border-b-4 border-black pb-4 ${colorClass} p-4 -mx-8 -mt-8`}>
-        {initialData ? `Edit ${title}` : `Add New ${title}`}
+        {initialData && !isNew ? `Edit ${title}` : `Add New ${title}`}
       </h2>
       
       <form onSubmit={handleSubmit} className="space-y-6">
@@ -43,7 +49,7 @@ export default function EntityForm({ schema, initialData, onSubmit, onCancel, ti
                   type={config.type || 'text'}
                   value={formData[key] || ''}
                   onChange={(e) => handleChange(key, e.target.value)}
-                  disabled={key === 'id' && !!initialData}
+                  disabled={key === 'id'}
                   required
                 />
               )}
