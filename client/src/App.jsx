@@ -102,7 +102,7 @@ function App() {
       
       {/* Decorative Ticks or Footer */}
       <div className="flex justify-between items-center opacity-20 pointer-events-none mt-12 py-8 border-t-4 border-black border-dashed">
-        <span className="font-black italic uppercase tracking-tighter text-4xl">System Stable</span>
+        <span className="font-black italic uppercase tracking text-4xl">Made with Love, by Tanuj and Samagra</span>
         <div className="flex gap-4">
           <div className="w-12 h-12 bg-black"></div>
           <div className="w-12 h-12 bg-neo-yellow"></div>

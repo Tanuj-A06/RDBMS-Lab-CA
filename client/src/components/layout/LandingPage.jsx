@@ -17,7 +17,7 @@ export default function LandingPage({ onNavigate }) {
             onClick={() => onNavigate('restaurants')}
             className="bg-white border-4 border-black py-4 px-8 text-2xl font-black uppercase hover:-translate-y-2 hover:shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] active:translate-y-0 active:shadow-none transition-all w-full text-center"
           >
-            Enter Dashboard 🚀
+            Enter System
           </button>
         </div>
       </div>

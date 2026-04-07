@@ -40,7 +40,7 @@ export default function Sidebar({ activeEntity, onSelect }) {
       </nav>
       
       <div className="mt-auto border-t-4 border-black pt-4">
-        <p className="text-[10px] font-black uppercase opacity-50">Neo-Brutalism Dashboard v1.0</p>
+        <p className="text-[10px] font-black uppercase opacity-50">Admin Panel</p>
       </div>
     </aside>
   );
