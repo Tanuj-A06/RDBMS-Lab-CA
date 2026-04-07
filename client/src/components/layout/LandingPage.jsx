@@ -39,7 +39,7 @@ export default function LandingPage({ onNavigate }) {
             <div className="text-6xl">{item.icon}</div>
             <h3 className="text-3xl font-black uppercase tracking-tighter">{item.title}</h3>
             <div className="mt-auto pt-4 border-t-4 border-black flex justify-between items-center group">
-              <span className="font-bold uppercase text-sm">Manage Data</span>
+              <span className="font-bold uppercase text-sm">Manage {item.title}</span>
               <span className="font-black text-2xl group-hover:translate-x-2 transition-transform">→</span>
             </div>
           </div>
