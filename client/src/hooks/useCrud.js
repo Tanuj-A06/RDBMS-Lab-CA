@@ -1,6 +1,6 @@
 import { useState, useEffect, useCallback } from 'react';
 
-const BASE_URL = 'http://localhost:5000/api';
+const API_BASE_URL = (import.meta.env.VITE_API_BASE_URL || 'https://crud-backend-service-rdbms.onrender.com/api').replace(/\/$/, '');
 
 export default function useCrud(entity) {
   const [data, setData] = useState([]);
@@ -12,7 +12,7 @@ export default function useCrud(entity) {
     setLoading(true);
     setError(null);
     try {
-      const response = await fetch(`${BASE_URL}/${entity}`);
+      const response = await fetch(`${API_BASE_URL}/${entity}`);
       if (!response.ok) throw new Error(`Failed to fetch ${entity}: ${response.statusText}`);
       const json = await response.json();
       setData(Array.isArray(json) ? json : []);
@@ -27,7 +27,7 @@ export default function useCrud(entity) {
   const createRecord = async (record) => {
     setError(null);
     try {
-      const response = await fetch(`${BASE_URL}/${entity}`, {
+      const response = await fetch(`${API_BASE_URL}/${entity}`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(record),
@@ -48,7 +48,7 @@ export default function useCrud(entity) {
   const updateRecord = async (id, record) => {
     setError(null);
     try {
-      const response = await fetch(`${BASE_URL}/${entity}/${id}`, {
+      const response = await fetch(`${API_BASE_URL}/${entity}/${id}`, {
         method: 'PUT',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(record),
@@ -69,7 +69,7 @@ export default function useCrud(entity) {
   const deleteRecord = async (id) => {
     setError(null);
     try {
-      const response = await fetch(`${BASE_URL}/${entity}/${id}`, {
+      const response = await fetch(`${API_BASE_URL}/${entity}/${id}`, {
         method: 'DELETE',
       });
       if (!response.ok) {
