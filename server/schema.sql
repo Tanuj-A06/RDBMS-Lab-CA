@@ -19,7 +19,8 @@ id INTEGER unique primary key,
 contact NUMERIC(10),
 email VARCHAR(50),
 password_hash VARCHAR(64),
-address VARCHAR(100)
+address VARCHAR(100),
+name VARCHAR(50)
 );
 
 create table dishes(

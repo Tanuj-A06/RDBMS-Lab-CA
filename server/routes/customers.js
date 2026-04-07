@@ -6,11 +6,11 @@ const router = Router();
 // CREATE
 router.post("/", async (req, res) => {
   try {
-    const { id, contact, email, password_hash, address } = req.body;
+    const { id, name, contact, email, password_hash, address } = req.body;
     const result = await pool.query(
-      `INSERT INTO customers (id, contact, email, password_hash, address)
-       VALUES ($1, $2, $3, $4, $5) RETURNING *`,
-      [id, contact, email, password_hash, address]
+      `INSERT INTO customers (id, name, contact, email, password_hash, address)
+       VALUES ($1, $2, $3, $4, $5, $6) RETURNING *`,
+      [id, name, contact, email, password_hash, address]
     );
     res.status(201).json(result.rows[0]);
   } catch (err) {
@@ -46,12 +46,12 @@ router.get("/:id", async (req, res) => {
 router.put("/:id", async (req, res) => {
   try {
     const { id } = req.params;
-    const { contact, email, password_hash, address } = req.body;
+    const { name, contact, email, password_hash, address } = req.body;
     const result = await pool.query(
       `UPDATE customers
-       SET contact = $1, email = $2, password_hash = $3, address = $4
-       WHERE id = $5 RETURNING *`,
-      [contact, email, password_hash, address, id]
+       SET name = $1, contact = $2, email = $3, password_hash = $4, address = $5
+       WHERE id = $6 RETURNING *`,
+      [name, contact, email, password_hash, address, id]
     );
     if (result.rows.length === 0) {
       return res.status(404).json({ error: "Customer not found" });

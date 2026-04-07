@@ -40,11 +40,15 @@ export async function initDB() {
 
     CREATE TABLE IF NOT EXISTS customers (
       id INTEGER UNIQUE PRIMARY KEY,
+      name VARCHAR(50),
       contact NUMERIC(10),
       email VARCHAR(50),
       password_hash VARCHAR(64),
       address VARCHAR(100)
     );
+
+    -- Ensure 'name' is added if the table already existed without it
+    ALTER TABLE customers ADD COLUMN IF NOT EXISTS name VARCHAR(50);
 
     CREATE TABLE IF NOT EXISTS dishes (
       id INTEGER UNIQUE PRIMARY KEY,

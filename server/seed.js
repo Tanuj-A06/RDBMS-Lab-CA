@@ -84,10 +84,17 @@ async function seedTable(filename, tableName, columns) {
     const colNames = columns.join(", ");
 
     try {
-      await pool.query(
-        `INSERT INTO ${tableName} (${colNames}) VALUES (${placeholders}) ON CONFLICT (id) DO NOTHING`,
-        values
-      );
+      if (tableName === 'customers') {
+         await pool.query(
+           `INSERT INTO customers (${colNames}) VALUES (${placeholders}) ON CONFLICT (id) DO UPDATE SET name = EXCLUDED.name`,
+           values
+         );
+      } else {
+         await pool.query(
+           `INSERT INTO ${tableName} (${colNames}) VALUES (${placeholders}) ON CONFLICT (id) DO NOTHING`,
+           values
+         );
+      }
     } catch (err) {
       console.error(`  ❌ Error inserting row id=${row.id}: ${err.message}`);
     }
@@ -108,7 +115,7 @@ async function main() {
   ]);
 
   await seedTable("customers.csv", "customers", [
-    "id", "contact", "email", "password_hash", "address",
+    "id", "contact", "email", "password_hash", "address", "name"
   ]);
 
   await seedTable("dishes.csv", "dishes", [
